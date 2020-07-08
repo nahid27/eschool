@@ -1,0 +1,53 @@
+.container{
+    margin-bottom: 30px;
+}
+.carousel-slide-yellow-bg{
+    background-color: rgb(227, 241, 227);
+}
+.carousel-item{
+padding: 30px 100px;}
+h6{
+    color: red;
+}
+h1{
+    font-weight: 700;
+}
+.sign-in{
+    background-color: rgb(16, 163, 16);
+    border: none;
+    border-radius: 10%;
+    list-style: bold;
+    float: left;
+    cursor: pointer;
+}
+.get-started{
+    background-color: rgb(16, 163, 16);
+    border: none;
+    border-radius: 10%;
+    list-style: bold;
+    cursor: pointer;
+}
+span{
+    color: green;
+    list-style: bold;
+}
+.cat1, .cat2, .cat3, .cat4{
+    background-color: rgb(246, 250, 246) ;
+    padding: 20px 40px;
+    justify-content: center;
+}
+.textalign{
+    text-align: center;
+    font-weight: 700;
+}
+.black{
+    background-color: black;
+}
+.row, .file{
+    padding: 40px 80px;
+    color: gray;
+}
+.textfooter{
+    text-align: center;
+    color: gray;
+}
